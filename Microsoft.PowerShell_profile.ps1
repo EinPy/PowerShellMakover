@@ -1,0 +1,1 @@
+Set-PoshPrompt -Theme M365Princess
